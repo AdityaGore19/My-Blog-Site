@@ -129,4 +129,19 @@ This is a fully functional blog site built using Django. Users can register, cre
 - Reset your password if you forget it via email.
 
 ## Project Structure
-
+django_project/
+├── blog_app/
+│ ├── migrations/
+│ ├── templates/
+│ ├── init.py
+│ ├── admin.py
+│ ├── apps.py
+│ ├── models.py
+│ ├── tests.py
+│ ├── urls.py
+│ ├── views.py
+├── users/
+│ ├── migrations/
+│ ├── templates/
+│ ├── init.py
+│ ├── admin
